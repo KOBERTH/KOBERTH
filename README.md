@@ -1,3 +1,7 @@
+<header>
+  <img src="" />
+</header>
+
 ### Hi there 👋
 
 <!--
