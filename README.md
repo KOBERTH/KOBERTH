@@ -1,6 +1,4 @@
-<header>
-  <img src="/Software developer.png" alt="img"/>
-</header>
+[![img.png](https://i.postimg.cc/1XnhypNw/img.png)](https://postimg.cc/30TbB01x)
 
 ### Hi there 👋
 
